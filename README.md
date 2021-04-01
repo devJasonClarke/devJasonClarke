@@ -3,15 +3,13 @@
 
 I'm a software engineer with an extensive history in frontend web development.<br>
 
-## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devjasonclarke/)
-
-
-A little about me: 
+## A little about me: 
 - 🔭 I’m currently working at: GENR8-3D 
 - 🌱 I’m currently learning: Firebase
 - ⚡ Fun fact: I was on national TV for 2 websites that I made 
 
+## 📫 How to reach me: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devjasonclarke/)
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=devJasonClarke&show_icons=true&theme=dark)
