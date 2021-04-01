@@ -5,7 +5,7 @@ A software engineer with an extensive history in frontend web development.<br>
 
 ### A little about me: 
 - 🔭 I’m currently working at: GENR8-3D 
-- 🌱 I’m currently learning: Firebase
+- 👨🏾‍💻 I’m learning: Firebase
 - ⚡ Fun fact: I was on national TV for 2 websites that I made 
 
 ### 📫 How to reach me: 
@@ -14,4 +14,4 @@ A software engineer with an extensive history in frontend web development.<br>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=devJasonClarke&show_icons=true&theme=dark)
  
-⭐️ From [Jason](https://github.com/devJasonClarke)
+🙏🏾 Thanks for reading!
