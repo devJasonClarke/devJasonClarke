@@ -1,7 +1,7 @@
 ## Hi there, I'm Jason <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
-A software engineer with an extensive history in frontend web development.<br>
+The software engineer with an extensive history in frontend web development.<br>
 
 ### A little about me: 
 - 🔭 I’m currently working at: GENR8-3D 
