@@ -5,10 +5,10 @@ The software engineer with an extensive history in frontend web development.<br>
 
 ### A little about me: 
 - 🔭 I’m currently working at: GENR8-3D 
-- 👨🏾‍💻 I’m learning: Firebase
+- 👨🏾‍💻 I’m learning: NoSQL Databases
 - ⚡ Fun fact: I was on national TV for 2 websites that I made 
 
-### 📫 How to reach me: 
+### 📫 Want to get in touch?: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devjasonclarke/)
 
 
