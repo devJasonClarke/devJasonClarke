@@ -8,7 +8,7 @@ The software engineer with an extensive history in frontend web development.<br>
 - 👨🏾‍💻 I’m learning: NoSQL Databases
 - ⚡ Fun fact: I was on national TV for 2 websites that I made 
 
-### 📫 Want to get in touch?: 
+### 📫 Want to get in touch: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devjasonclarke/)
 
 
