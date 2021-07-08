@@ -5,7 +5,7 @@ The software engineer with an extensive history in frontend web development.<br>
 
 ### A little about me: 
 - 🔭 I’m currently working at: GENR8-3D 
-- 👨🏾‍💻 I’m learning: NoSQL Databases
+- 👨🏾‍💻 I’m learning: Working with NoSQL Databases
 - ⚡ Fun fact: I was on national TV for 2 websites that I made 
 
 ### 📫 Want to get in touch: 
