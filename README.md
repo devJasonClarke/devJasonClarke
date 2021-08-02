@@ -1,7 +1,7 @@
 ## Hi there, I'm Jason <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
-I am a front-end web developer with experience in developing successful websites that solve problems and increase revenue. I help businesses, small agencies and start-ups bring their ideas to life in creative, efficient, and effective ways. I am known for my expertise in Website & Web App Development, Website Optimization, and Search Engine Optimization.<br>
+I am the front-end web developer who helps businesses, small agencies and start-ups bring their ideas to life in creative, efficient, and effective ways. I am known for my expertise in Website & Web App Development, Website Optimization, and Search Engine Optimization.<br>
 
 ### About me: 
 - 🔭 I’m currently Head of Web Development at: GENR8-3D 
