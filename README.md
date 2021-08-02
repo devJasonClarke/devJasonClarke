@@ -9,7 +9,7 @@ I am a front-end web developer with experience in developing successful websites
 - ⚡ Fun fact: I was on national TV for 2 websites that I made 
 
 ### 📫 Want to get in touch: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devjasonclarke/) <br>
+LinkedIn: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) https://www.linkedin.com/in/devjasonclarke/](https://www.linkedin.com/in/devjasonclarke/) <br>
 My Personal Portfolio: [https://www.devjasonclarke.com/](https://www.devjasonclarke.com/)
 
 
