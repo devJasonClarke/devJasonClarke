@@ -25,8 +25,8 @@ I help businesses, small agencies and start-ups bring their ideas to life in cre
 <br>
 
 ## 📫 Connect With Me 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devjasonclarke/) 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/DevJasonClarke.com-%230077B5.svg?style=for-the-badge&logo=🌐&logoColor=000" />](https://www.devjasonclarke.com/)
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devjasonclarke/) 
+[<img align="left" alt="website" src="https://img.shields.io/badge/DevJasonClarke.com-%230077B5.svg?style=for-the-badge" />](https://www.devjasonclarke.com/)
 
 <br>
 <br>
