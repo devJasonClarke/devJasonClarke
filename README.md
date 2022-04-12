@@ -4,7 +4,7 @@
 I help businesses, small agencies and start-ups bring their ideas to life in creative, efficient and effective ways. Most know me for my expertise in Website & Web App Development, Website Performance Optimization and Search Engine Optimization.<br>
 
 - 🔭 Currently: I'm developing great things with GENR8-3D. Also working on a few side projects.
-- 👨🏾‍💻 Learning: NoSQL database data modeling.
+- 👨🏾‍💻 Learning: How to create good blog posts.
 - ⚡ Fun fact: I was on national TV for 2 websites that I made.
 
 <br>
