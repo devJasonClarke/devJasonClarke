@@ -8,8 +8,10 @@ I help people bring their ideas to life in creative and effective ways. Most kno
 - 😎 Giving back to the community through the [Jamaican Developers Community](https://jamaicans.dev/).
 - ⚡ Fun fact, I was on national TV for two websites I built.
 
+<!--
 <br>
 <img src='https://github-readme-stats.vercel.app/api?username=devjasonclarke&theme=vue-dark&show_icons=true'/>
+-->
 
 <br>
 
