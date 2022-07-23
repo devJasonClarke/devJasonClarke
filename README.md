@@ -17,12 +17,12 @@ I help people bring their ideas to life in creative and effective ways. Most kno
 ## 💻 Programming Languages & Tools
 <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="scss" src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> 
 
-<img alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> <img alt="nuxt.js" src="https://img.shields.io/badge/nuxt.js-35495e?style=for-the-badge&logo=nuxtdotjs&logoColor=41b883" /> <img alt="Vuetify" src="https://img.shields.io/badge/Vuefify-1867c0?style=for-the-badge&logo=vuetify&logoColor=fff" /> 
+<img alt="React.Js" src="https://img.shields.io/badge/react-1867c0?style=for-the-badge&logo=react&logoColor=fff" /> <img alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> <img alt="nuxt.js" src="https://img.shields.io/badge/nuxt.js-35495e?style=for-the-badge&logo=nuxtdotjs&logoColor=41b883" /> 
 
- <img alt="firebase" src="https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase&logoColor=ffca28" /> <img alt="prismic" src="https://img.shields.io/badge/prismic-black?style=for-the-badge&logo=prismic&logoColor=pink" /> 
-<img alt="typescript" src="https://img.shields.io/badge/Typescript-1867c0?style=for-the-badge&logo=typescript&logoColor=fff" />
+ <img alt="firebase" src="https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase&logoColor=ffca28" /> <img alt="prismic" src="https://img.shields.io/badge/prismic-black?style=for-the-badge&logo=prismic&logoColor=pink" />  <img alt="yarn" src="https://img.shields.io/badge/Yarn-1867c0?style=for-the-badge&logo=yarn&logoColor=white" />
 
-<img alt="jest" src="https://img.shields.io/badge/jest-df162b?style=for-the-badge&logo=jest&logoColor=white" /> <img alt="npm" src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white" /> <img alt="yarn" src="https://img.shields.io/badge/Yarn-1867c0?style=for-the-badge&logo=yarn&logoColor=white" />
+
+<img alt="jest" src="https://img.shields.io/badge/jest-df162b?style=for-the-badge&logo=jest&logoColor=white" /> <img alt="npm" src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white" />
 
 
 <br>
