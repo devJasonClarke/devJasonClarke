@@ -3,8 +3,8 @@
 
 I help people bring their ideas to life in creative and effective ways. Most know me for frontend web development but I also dabble in search engine optimization (SEO) and fullstack development with Firebase.<br>
 
-- 👨🏿‍💻 Currently, I'm working on great things at [GENR8-3D](https://genr83d.com/).
-- 📚 Learning Docker Theory and how to create engaging content.
+- 👨🏿‍💻 Currently, I'm developing great things at [GENR8-3D](https://genr83d.com/).
+- 📚 Learning how to create engaging content.
 - 😎 Giving back to the community through the [Jamaican Developers Community](https://jamaicans.dev/).
 
 
