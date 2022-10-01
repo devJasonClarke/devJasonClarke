@@ -4,8 +4,8 @@
 I help people bring their ideas to life in creative and effective ways. Most know me for frontend web development but I also dabble in search engine optimization (SEO) and fullstack development with Firebase.<br>
 
 - 👨🏿‍💻 Currently, I'm developing great things at [GENR8-3D](https://genr83d.com/).
-- 📝 Create engaging content on my [Blog](https://www.devjasonclarke.com/blog).
 - 🌐 Learning more about server side and edge side rendering techniques.
+- 📝 Create engaging content on my [Blog](https://www.devjasonclarke.com/blog).
 
 
 <br>
