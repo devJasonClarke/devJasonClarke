@@ -3,8 +3,8 @@
 
 Software engineer with a demonstrated history of utilizing modern technologies to solve complex issues. Skilled in leveraging HMTL, CSS, React.Js, Next.Js, Redux, Javascript and Typescript.<br>
 
-- 👨🏿‍💻 Currently, I'm developing great things at [Apollo](https://www.apollo.xyz).
-- 🌐 Learning more about server side and edge side rendering techniques.
+- 👨🏿‍💻 Currently, I'm developing great things at [Osoobe]([https://www.apollo.xyz](https://osoobe.com/)).
+- 🌐 Learning more about the AWS infrastructure.
 - 📝 Create engaging content on my [Blog](https://www.devjasonclarke.com/blog).
 
 
